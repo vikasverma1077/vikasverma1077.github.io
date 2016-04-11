@@ -180,22 +180,33 @@ and Measurement tasks.
                                                 <div class="pubmain">
                                                     <!-- download & expand buttons -->
                                                     <div class="pubassets">
-                                                        <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-38221-5_17" class="tooltips" title="Download" target="_blank">
+                                                        <a href="http://arxiv.org/abs/1409.0749" class="tooltips" title="Download" target="_blank">
                                                             <i class="icon-cloud-download"></i>
                                                         </a>
                                                     </div>
 
                                                     <!-- paper info -->
-                                                    <h4 class="pubtitle">An Algorithm for Maximum Common Subgraph of Planar Triangulation Graphs</h4>
-                                                    <div class="pubauthor"><strong>Yao Lu</strong>, Horst Bunke, Cheng-Lin Liu</div>
-                                                    <div class="pubcite">Graph-Based Representations in Pattern Recognition (GbR), 2013.</div>                                        
+                                                    <h4 class="pubtitle">Image Retrieval And Classification Using Local Feature Vectors</h4>
+                                                    <div class="pubauthor"><strong>Vikas Verma</strong></div>
+                                                    <div class="pubcite">arXiv, 2014.</div>                                        
                                                 </div>
 
                                                 <!-- paper details -->
                                                 <div class="pubdetails">                                            
                                                     <p>
-    <img src="http://vikasverma1077.github.io/img/MCS.png" align="left" width="200px" style="margin-right:30px">
-    We designed a fast Maximum Common Subgraph (MCS) algorithm for Planar Triangulation Graphs. Its time complexity is <i>O</i>(<i>mnk</i>), where <i>n</i> is the size of one graph, <i>m</i> is the size of the other graph and <i>k</i> is the size of their MCS.
+    <img src="http://vikasverma1077.github.io/img/cbir.png" align="left" width="400px" style="margin-right:30px">
+    Content Based Image Retrieval(CBIR) is one of the important subfield of Information
+Retrieval field. The goal of a CBIR algorithm is to retrieve semantically similar images in
+response to a query image submitted by the end user. CBIR is a challenging problem because of
+the phenomenon known as semantic gap. 
+
+In this thesis, we aim at analyzing the performance of a CBIR system built using local
+feature vectors and Intermediate Matching Kernel. We also focus on reducing the response
+time and improving the retrieval performance of a CBIR system. We have proposed a Two
+Step Matching process for reducing the response time and developed a Meta-Learning
+framework for improving the retrieval performance. Results have shown that Two Step
+Matching process significantly reduces response time and Meta-Learning Framework is
+able to improve the retrieval performance by more than two times.
 </p>
 
 <div style="clear:both"></div>
