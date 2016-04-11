@@ -156,6 +156,11 @@
                                 <div class="circle"></div>
                                 <div class="data">
                                     <div class="subject">Machine Learning Researcher @<a href= http://www.ericsson.com/research-blog/category/data-knowledge/> Ericsson Research </a></div>
+				    <div class="text row">                                        
+                                        <div class="col-md-10">
+                                           Work summary: Application of Deep Learning, Multi-task learning, Distance Metric Learning to the application domains of Customer Relationship Management and Tele-communication networks.
+                                        </div>
+                                    </div>
                                 </div>
                             </li>
                             <li>
@@ -169,10 +174,13 @@
                                 <div class="date">2009.08 - 2011.06</div>
                                 <div class="circle"></div>
                                 <div class="data">
-                                    <div class="subject">Master's student in Machine Learning @ <a href=https://users.ics.aalto.fi/praiko/>Indian Institute of technology Madras </a></div>
+                                    <div class="subject">Master's student in Machine Learning @ <a href=https://users.ics.aalto.fi/praiko/>Indian Institute of Technology Madras </a></div>
                                     <div class="text row">                                        
                                         <div class="col-md-10">
                                             Supervisor:<a href= http://www.cse.iitm.ac.in/chandra/Prof.> C. Chandrasekhar.</a>
+                                        </div>
+					<div class="col-md-10">
+                                            Work summary: Desigend a kernel for "set-of-feature-vectors" for Content based Image Retrieval. Also developed a Probabilistic Meta-Learning framework for faster image retrieval. 
                                         </div>
                                     </div>
                                 </div>
