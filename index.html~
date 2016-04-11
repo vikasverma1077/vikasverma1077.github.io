@@ -65,25 +65,25 @@
             </div>
             <ul id="navigation">
                 <li class="currentmenu">
-                    <a href="http://yaolubrain.github.io">
+                    <a href="http://vikasverma1077.github.io">
                         <div class="icon icon-user"></div>
                         <div class="text">About Me</div>
                     </a>
                 </li>
                 <li>
-                    <a href="http://yaolubrain.github.io/publications/">
+                    <a href="http://vikasverma1077.github.io/publications/">
                         <div class="icon icon-book"></div>
                         <div class="text">Publications</div>
                     </a>
                 </li>
                 <li>
-                    <a href="http://yaolubrain.github.io/projects/">
+                    <a href="http://vikasverma1077.github.io/projects/">
                         <div class="icon icon-rocket"></div>
                         <div class="text">Projects</div>
                     </a>
                 </li>
                 <li>
-                    <a href="http://yaolubrain.github.io/blog/">
+                    <a href="http://vikasverma1077.github.io/blog/">
                         <div class="icon icon-edit"></div>
                         <div class="text">Blog</div>
                     </a>
@@ -110,16 +110,18 @@
                     <div class="col-md-8">
                         <p>I am a First year PhD student at Computer Science Department of  Aalto University, Finland.</p>
 			<p>My supervisor is <a href=https://users.ics.aalto.fi/praiko/>Tapani Raiko</a>.</p>                           
-                        <p>My research interest primarily lies in designing efficient optimization algorithms for Deep Architectures. To this end, I am working on the ideas based on transforming the outputs of hidden neurons of the networks. Tranformation based approaches have been shown to be very effective Example of this approach include <a href=http://jmlr.csail.mit.edu/proceedings/papers/v22/raiko12/raiko12.pdf>Deep learning made easier by linear transformations in perceptrons</a>, <a href=http://arxiv.org/abs/1502.03167>Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, <a href=https://papers.nips.cc/paper/5953-natural-neural-networks.pdf>Natural neural networks</a> </p>                           
+                        <p>My research interest primarily lies in designing efficient optimization algorithms for Deep Architectures. To this end, I am working on the ideas based on transforming the outputs of hidden neurons of the networks. Tranformation based approaches have been shown to be very effective previously. Example of these approaches include <a href=http://jmlr.csail.mit.edu/proceedings/papers/v22/raiko12/raiko12.pdf>Deep learning made easier by linear transformations in perceptrons</a>, <a href=http://arxiv.org/abs/1502.03167>Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, <a href=https://papers.nips.cc/paper/5953-natural-neural-networks.pdf>Natural neural networks. </a> </p>   
+   			<p>Application area wise, my research interest primarily lies in computer vision and natural language processing.</p>                      
                     </div>
                     <div class="col-md-4">
                         <div class="subtitle text-center">
                             <h3>Research Interests</h3>
                         </div>
                         <ul class="ul-boxed list-unstyled">
-                            <li>Unsupervised Learning</li>
-                            <li>Deep Neural Networks</li>
-                            <li>Computer Vision</li>
+                            <li>Optimization algorithms for Deep Architectures</li>
+                            <li>Non-convex optimization</li>
+			    <li>Structured prediction</li>
+                            
                         </ul>
                     </div>
                 </div>                
@@ -137,10 +139,10 @@
                         </div>
                         <ul class="timeline">
                             <li class="open">
-                                <div class="date">2015.09 - now</div>
+                                <div class="date">2015.11 - now</div>
                                 <div class="circle"></div>
                                 <div class="data">
-                                    <div class="subject">Research Assistant @ Aalto University</div>
+                                    <div class="subject">Phd candidate @ Aalto University</div>
                                     <div class="text row">                                        
                                         <div class="col-md-10">
                                             Supervisor: Tapani Raiko
@@ -150,32 +152,27 @@
                             </li>
 
                             <li>
-                                <div class="date">2013.09 - 2015.08</div>
+                                <div class="date">2011.11 - 2015.03</div>
                                 <div class="circle"></div>
                                 <div class="data">
-                                    <div class="subject">Research Assistant @ University of Helsinki</div>
-                                    <div class="text row">                                        
-                                        <div class="col-md-10">
-                                            Supervisors: Aapo Hyvarinen and Michael Gutmann
-                                        </div>
-                                    </div>
+                                    <div class="subject">Machine Learning Researcher @ Ericsson Research</div>
                                 </div>
                             </li>
                             <li>
-                                <div class="date">2014.04 - 2014.05</div>
+                                <div class="date">2011.07 - 2011.11</div>
                                 <div class="circle"></div>
                                 <div class="data">
-                                    <div class="subject">Student Attendant @ Machine Learning Summer School, Iceland</div>
+                                    <div class="subject">Software Engineer @ Intel corporation</div>
                                 </div>
                             </li>
                             <li>
-                                <div class="date">2010.12 - 2013.08</div>
+                                <div class="date">2009.08 - 2011.06</div>
                                 <div class="circle"></div>
                                 <div class="data">
-                                    <div class="subject">Research Assistant @ National Lab of Pattern Recognition, Chinese Academy of Sciences</div>
+                                    <div class="subject">Master's student in Machine Learning @ <a href=https://users.ics.aalto.fi/praiko/>Indian Institute of technology Madras </a></div>
                                     <div class="text row">                                        
                                         <div class="col-md-10">
-                                            Supervisors: Cheng-Lin Liu and Kaizhu Huang 
+                                            Supervisor:<a href= http://www.cse.iitm.ac.in/chandra/Prof.> C. Chandrasekhar.</a>
                                         </div>
                                     </div>
                                 </div>
