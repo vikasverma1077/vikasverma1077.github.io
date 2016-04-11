@@ -127,7 +127,7 @@
                                                     <!-- paper info -->
                                                     <h4 class="pubtitle">Real-Time Internet Traffic Classification using Deep Learning</h4>
                                                     <div class="pubauthor"><strong>Vikas Verma</strong></div>
-                                                    <div class="pubcite">arXiv, 2015.</div>                                        
+                                                    <div class="pubcite">Accepted in IEEE WowMoM 2015, Boston, MA, USA.</div>                                        
                                                 </div>
 
                                                 <!-- paper details -->
@@ -216,63 +216,10 @@ able to improve the retrieval performance by more than two times.
                                         
                                     
                                         
-                                                                                
-                                            <div class="item mix other">
-                                                <div class="pubmain">
-                                                    <!-- download & expand buttons -->
-                                                    <div class="pubassets">
-                                                        <a href="http://arxiv.org/abs/1207.1114" class="tooltips" title="Download" target="_blank">
-                                                            <i class="icon-cloud-download"></i>
-                                                        </a>
-                                                    </div>
-
-                                                    <!-- paper info -->
-                                                    <h4 class="pubtitle">A Fast Projected Fixed-Point Algorithm for Large Graph Matching</h4>
-                                                    <div class="pubauthor"><strong>Yao Lu</strong>, Kaizhu Huang, Cheng-Lin Liu</div>
-                                                    <div class="pubcite">arXiv, 2012.</div>                                        
-                                                </div>
-
-                                                <!-- paper details -->
-                                                <div class="pubdetails">                                            
-                                                    <p>
-<img src="http://vikasverma1077.github.io/img/graph_matching.png" align="left" width="200px" style="margin-right:30px">
-We designed a fast matching algorithm for attributed and weighted graph. Its time complexity is <i>O</i>(<i>mn</i>), where <i>m</i> and <i>n</i> are the sizes of two graphs, for each iteration. We also proved its linear convergence rate. It takes within 10 seconds to match two graphs of 1000 nodes on a PC.
-</p>
-
-<div style="clear:both"></div>
-
-                                                </div>
-                                            </div>
-                                        
+                                   
                                     
                                         
-                                                                                
-                                            <div class="item mix other">
-                                                <div class="pubmain">
-                                                    <!-- download & expand buttons -->
-                                                    <div class="pubassets">
-                                                        <a href="http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00111?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed#.VXGbS62lyko" class="tooltips" title="Download" target="_blank">
-                                                            <i class="icon-cloud-download"></i>
-                                                        </a>
-                                                    </div>
-
-                                                    <!-- paper info -->
-                                                    <h4 class="pubtitle">Traveling Bumps and Their Collisions in a Two-Dimensional Neural Field</h4>
-                                                    <div class="pubauthor"><strong>Yao Lu</strong>, Yuzuru Sato, Shun-ichi Amari</div>
-                                                    <div class="pubcite">Neural Computation, 2011.</div>                                        
-                                                </div>
-
-                                                <!-- paper details -->
-                                                <div class="pubdetails">                                            
-                                                    <p>
-<img src="http://vikasverma1077.github.io/img/traveling_bumps.png" align="left" width="200px" style="margin-right:30px">
-We found a unique traveling bump solution, which was unknown to exist before, in a set of two-dimensional neural network equations, 
-</p>
-
-<div style="clear: both"></div>
-
-                                                </div>
-                                            </div>
+                                             
                                         
                                                 
                                     
