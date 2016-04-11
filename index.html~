@@ -142,10 +142,10 @@
                                 <div class="date">2015.11 - now</div>
                                 <div class="circle"></div>
                                 <div class="data">
-                                    <div class="subject">Phd candidate @ Aalto University</div>
+                                    <div class="subject">Phd candidate @ <a href=http://cs.aalto.fi/en/>CSE, Aalto University</a></div>
                                     <div class="text row">                                        
                                         <div class="col-md-10">
-                                            Supervisor: Tapani Raiko
+                                            Supervisor:  <a href=https://users.ics.aalto.fi/praiko/>Tapani Raiko</a>
                                         </div>
                                     </div>
                                 </div>
