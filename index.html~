@@ -3,44 +3,44 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Yao Lu </title>
+        <title>Vikas Verma </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Loop and attach page tags from page meta section -->
         
         <meta name="keywords" content="">
         
-        <title>Yao Lu</title>
+        <title>Vikas Verma</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="author" content="owwwlab.com">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">            
-        <link rel="shortcut icon" href="http://yaolubrain.github.io/img/brain.jpg">
+        <link rel="shortcut icon" href="http://vikasverma1077.github.io/img/vikas.jpg">
 
         <!--CSS styles-->
-        <link rel="stylesheet" href="http://yaolubrain.github.io/css/bootstrap.css">
+        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/bootstrap.css">
      
-        <link rel="stylesheet" href="http://yaolubrain.github.io/css/font-awesome.min.css">  
-        <link rel="stylesheet" href="http://yaolubrain.github.io/css/perfect-scrollbar-0.4.5.min.css">
-        <link rel="stylesheet" href="http://yaolubrain.github.io/css/magnific-popup.css">
-        <link rel="stylesheet" href="http://yaolubrain.github.io/css/style.css">
-        <link id="theme-style" rel="stylesheet" href="http://yaolubrain.github.io/css/styles/default.css">
+        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/font-awesome.min.css">  
+        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/perfect-scrollbar-0.4.5.min.css">
+        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/magnific-popup.css">
+        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/style.css">
+        <link id="theme-style" rel="stylesheet" href="http://vikasverma1077.github.io/css/styles/default.css">
 
         
         <!--/CSS styles-->
         <!--Javascript files-->
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery-1.10.2.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/TweenMax.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.touchSwipe.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.carouFredSel-6.2.1-packed.js"></script>        
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/modernizr.custom.63321.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.dropdownit.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.stellar.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/ScrollToPlugin.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.mixitup.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/masonry.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/magnific-popup.js"></script>
-        <script type="text/javascript" src="http://yaolubrain.github.io/js/custom.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/TweenMax.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.carouFredSel-6.2.1-packed.js"></script>        
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/modernizr.custom.63321.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.dropdownit.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/ScrollToPlugin.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.mixitup.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/masonry.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/magnific-popup.js"></script>
+        <script type="text/javascript" src="http://vikasverma1077.github.io/js/custom.js"></script>
 
         <!--/Javascript files-->
 
@@ -58,9 +58,9 @@
             <div id="profile" class="clearfix">
                 <div class="portrate hidden-xs"></div>
                 <div class="title">
-                    <h2>Yao Lu</h2>
-                    <h3>Aalto University</h3>
-                    <h3>yaolubrain@gmail.com</h3>
+                    <h2>Vikas Verma</h2>
+                    <h3>Department of Computer Science, Aalto University</h3>
+                    <h3>vikasverma.iitm@gmail.com</h3>
                 </div>                            
             </div>
             <ul id="navigation">
@@ -94,9 +94,9 @@
             
     <div class="social-icons">
         <ul>
-            <li><a href="http://www.weibo.com/yaolubrain"><i class="icon-weibo"></i></a></li>
-            <li><a href="https://github.com/yaolubrain"><i class="icon-github"></i></a></li>
-            <li><a href="https://plus.google.com/u/0/100955733060088195535/posts"><i class="icon-google-plus-sign"></i></a></li>
+          
+            <li><a href="https://github.com/vikasverma1077"><i class="icon-github"></i></a></li>
+            
         </ul>
     </div>    
 </div>
@@ -108,9 +108,9 @@
             <div class="section-container">                               
                 <div class="row">
                     <div class="col-md-8">
-                        <p>From 2016, I am a PhD student in Aalto University, Finland.</p>
+                        <p>I am a First year PhD student at Computer Science Department of  Aalto University, Finland.</p>
 			<p>My supervisor is <a href=https://users.ics.aalto.fi/praiko/>Tapani Raiko</a>.</p>                           
-                        <p>I am striving to design models and algorithms which are effective in practice and yet simple.</p>                           
+                        <p>My research interest primarily lies in designing efficient optimization algorithms for Deep Architectures. To this end, I am working on the ideas based on transforming the outputs of hidden neurons of the networks. Tranformation based approaches have been shown to be very effective Example of this approach include <a href=http://jmlr.csail.mit.edu/proceedings/papers/v22/raiko12/raiko12.pdf>Deep learning made easier by linear transformations in perceptrons</a>, <a href=http://arxiv.org/abs/1502.03167>Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, <a href=https://papers.nips.cc/paper/5953-natural-neural-networks.pdf>Natural neural networks</a> </p>                           
                     </div>
                     <div class="col-md-4">
                         <div class="subtitle text-center">
