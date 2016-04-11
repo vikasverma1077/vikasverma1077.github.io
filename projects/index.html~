@@ -13,34 +13,34 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="author" content="owwwlab.com">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">            
-        <link rel="shortcut icon" href="http://vikasverma1077.github.io/img/brain.jpg">
+        <link rel="shortcut icon" href="http://yaolubrain.github.io/img/brain.jpg">
 
         <!--CSS styles-->
-        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/bootstrap.css">
+        <link rel="stylesheet" href="http://yaolubrain.github.io/css/bootstrap.css">
      
-        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/font-awesome.min.css">  
-        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/perfect-scrollbar-0.4.5.min.css">
-        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/magnific-popup.css">
-        <link rel="stylesheet" href="http://vikasverma1077.github.io/css/style.css">
-        <link id="theme-style" rel="stylesheet" href="http://vikasverma1077.github.io/css/styles/default.css">
+        <link rel="stylesheet" href="http://yaolubrain.github.io/css/font-awesome.min.css">  
+        <link rel="stylesheet" href="http://yaolubrain.github.io/css/perfect-scrollbar-0.4.5.min.css">
+        <link rel="stylesheet" href="http://yaolubrain.github.io/css/magnific-popup.css">
+        <link rel="stylesheet" href="http://yaolubrain.github.io/css/style.css">
+        <link id="theme-style" rel="stylesheet" href="http://yaolubrain.github.io/css/styles/default.css">
 
         
         <!--/CSS styles-->
         <!--Javascript files-->
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery-1.10.2.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/TweenMax.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.touchSwipe.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.carouFredSel-6.2.1-packed.js"></script>        
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/modernizr.custom.63321.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.dropdownit.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.stellar.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/ScrollToPlugin.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/jquery.mixitup.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/masonry.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/magnific-popup.js"></script>
-        <script type="text/javascript" src="http://vikasverma1077.github.io/js/custom.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/TweenMax.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.carouFredSel-6.2.1-packed.js"></script>        
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/modernizr.custom.63321.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.dropdownit.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/ScrollToPlugin.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/jquery.mixitup.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/masonry.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/magnific-popup.js"></script>
+        <script type="text/javascript" src="http://yaolubrain.github.io/js/custom.js"></script>
 
         <!--/Javascript files-->
 
@@ -58,32 +58,32 @@
             <div id="profile" class="clearfix">
                 <div class="portrate hidden-xs"></div>
                 <div class="title">
-                    <h2>Vikas Verma</h2>
-                    <h3>Department of Computer Science, Aalto University</h3>
-                    <h3>vikasverma.iitm@gmail.com</h3>
+                    <h2>Yao Lu</h2>
+                    <h3>Aalto University</h3>
+                    <h3>yaolubrain@gmail.com</h3>
                 </div>                            
             </div>
             <ul id="navigation">
                 <li>
-                    <a href="http://vikasverma1077.github.io">
+                    <a href="http://yaolubrain.github.io">
                         <div class="icon icon-user"></div>
                         <div class="text">About Me</div>
                     </a>
                 </li>
                 <li>
-                    <a href="http://vikasverma1077.github.io/publications/">
+                    <a href="http://yaolubrain.github.io/publications/">
                         <div class="icon icon-book"></div>
                         <div class="text">Publications</div>
                     </a>
                 </li>
                 <li class="currentmenu">
-                    <a href="http://vikasverma1077.github.io/projects/">
+                    <a href="http://yaolubrain.github.io/projects/">
                         <div class="icon icon-rocket"></div>
                         <div class="text">Projects</div>
                     </a>
                 </li>
                 <li>
-                    <a href="http://vikasverma1077.github.io/blog/">
+                    <a href="http://yaolubrain.github.io/blog/">
                         <div class="icon icon-edit"></div>
                         <div class="text">Blog</div>
                     </a>
@@ -94,8 +94,9 @@
             
     <div class="social-icons">
         <ul>
-            <li><a href="https://github.com/vikasverma1077"><i class="icon-github"></i></a></li>
-            
+            <li><a href="http://www.weibo.com/yaolubrain"><i class="icon-weibo"></i></a></li>
+            <li><a href="https://github.com/yaolubrain"><i class="icon-github"></i></a></li>
+            <li><a href="https://plus.google.com/u/0/100955733060088195535/posts"><i class="icon-google-plus-sign"></i></a></li>
         </ul>
     </div>    
 </div>
@@ -152,7 +153,7 @@ We made an app with can predict the sentiment of a tweet based on ConvNet in Pyt
                                                 <div class="pubmain">
                                                     <!-- download & expand buttons -->
                                                     <div class="pubassets">
-                                                        <a href="https://github.com/vikasverma1077/cnn_linear_max" class="tooltips" title="Download" target="_blank">
+                                                        <a href="https://github.com/yaolubrain/cnn_linear_max" class="tooltips" title="Download" target="_blank">
                                                             <i class="icon-cloud-download"></i>
                                                         </a>
                                                     </div>
@@ -188,7 +189,7 @@ We made an app with can predict the sentiment of a tweet based on ConvNet in Pyt
 						
 	                                                <div class="pubdetails">                                            
         	                                            <p>
-<img src="http://vikasverma1077.github.io/img/hackathon.jpg" align="left" width="200px" style="margin-right:30px">
+<img src="http://yaolubrain.github.io/img/hackathon.jpg" align="left" width="200px" style="margin-right:30px">
 </p>
 
 <div style="clear: both"></div>
