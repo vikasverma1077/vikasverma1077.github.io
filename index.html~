@@ -177,30 +177,8 @@
                                     </div>
                                 </div>
                             </li>
-                            <li>
-                                <div class="date">2009.07 - 2009.08</div>
-                                <div class="circle"></div>
-                                <div class="data">
-                                    <div class="subject">Intern @ RIKEN Brain Science Institute</div>
-                                    <div class="text row">                                        
-                                        <div class="col-md-10">
-                                            Supervisors: Shun-ichi Amari and Yuzuru Sato
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="date">2008.10 - 2009.03</div>
-                                <div class="circle"></div>
-                                <div class="data">
-                                    <div class="subject">Visting Student @ Institute of Neuroscience, Chinese Academy of Science</div>
-                                    <div class="text row">                                        
-                                        <div class="col-md-10">
-                                            Supervisor: Si Wu 
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>                                                
+                           
+                                                                     
                         </ul>
                     </div>
                 </div>
