@@ -137,7 +137,7 @@ Users of a Network . U.S. Patent Application 20140244664,
 						
 	                                                <div class="pubdetails">                                            
         	                                            <p>
-We develop a method for learning the distance metric between the
+We developed a method for learning the distance metric between the
 customers of a Telecommunication Service Provider (TSP). This type of distance metric is
 important because it can be used as an underlying dissimilarity measure for solving a wide
 variety of problems such as Churn classification using Distance based learning algorithms(for
@@ -167,17 +167,12 @@ by approximately 12%.
                                             <div class="item mix other">
                                                 <div class="pubmain">
                                                     <!-- download & expand buttons -->
-                                                    <div class="pubassets">
-                                                        <a href="https://github.com/vikasverma1077/cnn_linear_max" class="tooltips" title="Download" target="_blank">
-                                                            <i class="icon-cloud-download"></i>
-                                                        </a>
-                                                    </div>
-
+                                                    
                                                     <!-- paper info -->
                                                     <h4 class="pubtitle">An efficient service representation method for user
 service prediction,WO1: Application number : PCT/SE2013/051446
 </h4>
-                                                    <div class="pubauthor"><strong>Vikas Verma</strong> Vincent Huang</div>
+                                                    <div class="pubauthor"><strong>Vikas Verma</strong>, Vincent Huang</div>
                                                     <div class="pubcite"></div>                                        
                                                 </div>
 
