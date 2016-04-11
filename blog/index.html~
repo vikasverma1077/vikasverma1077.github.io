@@ -3,17 +3,17 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Yao Lu </title>
+        <title>Vikas Verma </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Loop and attach page tags from page meta section -->
         
         <meta name="keywords" content="">
         
-        <title>Yao Lu</title>
+        <title>Vikas Verma</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="author" content="owwwlab.com">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">            
-        <link rel="shortcut icon" href="http://vikasverma1077.github.io/img/brain.jpg">
+        <link rel="shortcut icon" href="http://vikasverma1077.github.io/img/vikas.jpg">
 
         <!--CSS styles-->
         <link rel="stylesheet" href="http://vikasverma1077.github.io/css/bootstrap.css">
@@ -77,9 +77,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="http://vikasverma1077.github.io/projects/">
+                    <a href="http://vikasverma1077.github.io/patents/">
                         <div class="icon icon-rocket"></div>
-                        <div class="text">Projects</div>
+                        <div class="text">Patents</div>
                     </a>
                 </li>
                 <li  class="currentmenu">
@@ -94,21 +94,13 @@
             
     <div class="social-icons">
         <ul>
-            <li><a href="http://www.weibo.com/vikasverma1077"><i class="icon-weibo"></i></a></li>
+            
             <li><a href="https://github.com/vikasverma1077"><i class="icon-github"></i></a></li>
-            <li><a href="https://plus.google.com/u/0/100955733060088195535/posts"><i class="icon-google-plus-sign"></i></a></li>
+            
         </ul>
     </div>    
 </div>
 
-<div class="col-sm-12">
-    <div class="page">
-        <p>I am a master student of computer science in University of Helsinki, Finland.</p>
-        <p>Research Interests: Unsupervised Learning. Deep Neural Networks. Computer Vision.</p>
-	<br>
-	<p><img src="http://vikasverma1077.github.io/assets/images/email.png" align="right" width="200px"></p>
-    </div>
-</div>
 
 </div>    
 
