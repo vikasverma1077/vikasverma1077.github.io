@@ -61,7 +61,9 @@
                     <h2>Vikas Verma</h2>
                     <h3><a href=http://cs.aalto.fi/en/>Department of Computer Science, Aalto University</a></h3>
                     <h3><a href="mailto:vikasverma.iitm@gmail.com" target="_top">vikasverma.iitm@gmail.com</a></h3>
-                    <h3><a href=http://vikasverma1077.github.io/publications/cv_vikas_verma.pdf/>CV</a></h3>
+                    <h3><div class="pubassets">
+                         <a href="http://vikasverma1077.github.io/publications/cv_vikas_verma.pdf" class="tooltips"  target="_blank">CV</a>
+                        </div></h3>
                 </div>                            
             </div>
             <ul id="navigation">
@@ -128,7 +130,7 @@
                                                     <!-- paper info -->
                                                     <h4 class="pubtitle">Real-Time Internet Traffic Classification using Deep Learning</h4>
                                                     <div class="pubauthor"><strong>Vikas Verma</strong></div>
-                                                    <div class="pubcite">Accepted in IEEE WowMoM 2015, Boston, MA, USA.</div>                                        
+                                                    <div class="pubcite"> <a href="http://csr.bu.edu/wowmom15/">Accepted in IEEE WowMoM 2015, Boston, MA, USA.</a></div>                                        
                                                 </div>
 
                                                 <!-- paper details -->
