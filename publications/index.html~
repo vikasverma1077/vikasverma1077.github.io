@@ -77,9 +77,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="http://vikasverma1077.github.io/projects/">
+                    <a href="http://vikasverma1077.github.io/patents/">
                         <div class="icon icon-rocket"></div>
-                        <div class="text">Projects</div>
+                        <div class="text">Patents</div>
                     </a>
                 </li>
                 <li>
@@ -119,7 +119,7 @@
                                                 <div class="pubmain">
                                                     <!-- download & expand buttons -->
                                                     <div class="pubassets">
-                                                        <a href="http://arxiv.org/abs/1409.0749" class="tooltips" title="Download" target="_blank">
+                                                        <a href="http://vikasverma1077.github.io/publications/ieee_wowmom.pdf" class="tooltips" title="Download" target="_blank">
                                                             <i class="icon-cloud-download"></i>
                                                         </a>
                                                     </div>
